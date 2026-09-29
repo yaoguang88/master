@@ -1,1 +1,1 @@
-api1.cgdj.app
+https://api1.cgdj.app/api.php
